@@ -1,13 +1,12 @@
 [package]
-name = "rust-password"
+name = "rust_password"
 version = "0.1.0"
 authors = ["anton_misa <anton_misa@mail.ru>"]
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/antonmisa/rust_passwords/"
+repository = "https://github.com/antonmisa/rust_password/"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 rand = "0.8.0"
-#rand_core = "0.5.1"
